@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sindhuja
-- 👀 I’m interested in Data Analyst
+- 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://sujana20.github.io/codingwithsindhu/
