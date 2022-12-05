@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://sujana20.github.io/sindhujatheanalyst/
+- 📫 How to reach me 
 
 <!---
 sujana20/sujana20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
